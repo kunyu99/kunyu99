@@ -1,5 +1,3 @@
-Here are some ideas to get you started:
-
-- 🔭 I’m WeifangUniversity student.
+I’m a WeifangUniversity student.
 
 
