@@ -1,3 +1,3 @@
-I’m a WeifangUniversity student.
-
+YOLO
+You only live once.
 
